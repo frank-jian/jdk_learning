@@ -1,0 +1,23 @@
+*.class
+/.idea
+*.impl
+target/
+.project
+.classpath
+*.iml
+.settings/
+.svn/
+.DS_Store
+
+Servers/
+bin/
+
+# Package Files #
+*.jar
+build-bootstrap.jar
+*.war
+*.ear
+.metadata
+gen-dal/
+SPID
+modelservice-service/src/main/java/T.java
